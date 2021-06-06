@@ -1,9 +1,9 @@
 # Hello world!
 Intro tutorial to github
 
-Hi, this is a Hello World tutroial for github.  It covers:
+Hi, this is a Hello World tutorial for github.  It covers:
 - Repository creation
 - Branch creation 
-- Pull requests
 - Commits
+- Pull requests
 - Merges
